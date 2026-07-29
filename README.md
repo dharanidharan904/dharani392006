@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Monika
+# Hi there 👋, I'm Dharanidharan
 
 <h3 align="center">💻 Computer Science Student | Full Stack Developer | AI Enthusiast</h3>
 
